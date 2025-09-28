@@ -43,9 +43,12 @@ online appointment 3/
 ```bash
 git clone <repo_url>
 cd "online appointment 3"
+```
 
-2. Create a virtual environment (recommended)
+### 2. Create a virtual environment (recommended)
+```bash
 python -m venv venv
+```
 # On Mac/Linux
 source venv/bin/activate
 # On Windows
