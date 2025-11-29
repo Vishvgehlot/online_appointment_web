@@ -18,6 +18,7 @@ It includes features like doctor signup/login, online status management, patient
 ---
 
 ## 📂 Project Structure
+```bash
 online appointment 3/
 │── app.py                # Main Flask application
 │
@@ -33,7 +34,7 @@ online appointment 3/
     ├── doctor_signup.html
     ├── home.html
     └── patient_view.html
-
+```
 ---
 
 ## ⚙️ Installation
